@@ -1,4 +1,4 @@
-# Dynamic Color Background Generator
+# Hex color Generator
 
 This project is a simple web application that dynamically changes the background color based on mouse movements. It generates random hex color codes, updates the background color, and allows users to copy the generated color code to the clipboard.
 
