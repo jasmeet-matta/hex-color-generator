@@ -24,5 +24,5 @@ This project is a simple web application that dynamically changes the background
 
 ## Demo
 
-[Live Demo](link_to_live_demo)
+[Live Demo](https://jasmeet-matta.github.io/hex-color-generator/)
 
